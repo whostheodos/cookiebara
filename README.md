@@ -64,4 +64,4 @@ docs/          design notes — read delivery-state-machine.md first
 
 ## License
 
-TBD
+MIT
